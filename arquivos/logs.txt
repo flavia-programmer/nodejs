@@ -1,0 +1,4 @@
+/
+/favicon.ico
+/contatos
+/favicon.ico

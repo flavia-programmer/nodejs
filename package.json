@@ -1,0 +1,13 @@
+{
+  "name": "aulas-node",
+  "description": "Aulas de Nodejs",
+  "author": "Flávia Amaral <flavia.programadora@gmail.com>",
+  "version": "1.0.0",
+  "private": true,
+  "dependecies": {
+    "mongoose": "*"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
