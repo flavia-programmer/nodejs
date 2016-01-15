@@ -1,0 +1,16 @@
+{
+  "name": "waibtec",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.13.1",
+    "express-load": "*",
+    "jade": "~1.11.0",
+    "kerberos": "0.0.17",
+    "mongoose": "*",
+    "kerberos": "~0.0.17"
+  }
+}

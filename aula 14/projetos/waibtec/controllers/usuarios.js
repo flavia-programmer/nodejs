@@ -7,8 +7,8 @@ module.exports = function (app){
     },
     create: function(req, res){
       var model = new Usuario({
-        nome: 'Renato',
-        login: 'renato',
+        nome: 'Kesia',
+        login: 'kesia',
         senha: '123'
       });
       model.save(function(erro, data){
